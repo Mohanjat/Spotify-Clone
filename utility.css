@@ -1,0 +1,25 @@
+.invert{
+    filter: invert(100%);
+}
+
+  /* Customize the scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px; /* width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(33, 33, 33); /* color of the track */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #545454; /* color of the scroll thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #707070; /* color of the scroll thumb on hover */
+}
+
+.newSize{
+    width: 50px;
+    height: 50px;
+}
